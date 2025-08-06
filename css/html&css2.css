@@ -1162,11 +1162,13 @@ header .container nav .toggle-menu {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 0.3s;
 }
 
 .Pricing .container .Pricing-content .Content_Box .contect_box_footer a{
     text-decoration: none;
     color:var(--first-font_color);
+    transition: 0.3s;
 }
 
 
@@ -1202,6 +1204,7 @@ header .container nav .toggle-menu {
     color: var(--secound-font_color);
     font-size: var(--secound-text-size-font);
     font-weight: normal;
+    transition: 0.3s;
 }
 
 .Pricing .container .Pricing_footer a:hover{
@@ -1288,6 +1291,7 @@ header .container nav .toggle-menu {
     border: none;
     outline: none;
     color: var(--secound-font_color);
+    transition: 0.3s;
 }
 
 .Subscribe .container form input[type='Submit']:hover{
@@ -1365,6 +1369,7 @@ header .container nav .toggle-menu {
     border:none;
     font-size: var(--first-text-size-font);
     font-weight: normal;
+    transition: 0.3s;
 }
 
 .Contact .container .Contact-content form input[type='Submit']:hover{
